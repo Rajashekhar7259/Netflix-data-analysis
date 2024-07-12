@@ -3,7 +3,7 @@ This project analyzes Netflix data to uncover viewer behaviors and content trend
 
 Follow the below link for the complete report:
 
-[https://github.com/Rajashekhar7259](https://github.com/Rajashekhar7259/Netflix-data-analysis/blob/main/Netflix%20Data%20Analysis.pptx)
+[[https://github.com/Rajashekhar7259](https://github.com/Rajashekhar7259/Netflix-data-analysis/blob/main/Netflix%20Data%20Analysis.pptx)](https://github.com/Rajashekhar7259/Netflix-data-analysis/tree/main)
 
 ## Objectives
 
